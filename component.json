@@ -13,6 +13,9 @@
   ],
   "styles": [
     "style/jquery.jscrollpane.css"
-  ]
+  ],
+  "dependencies": {
+    "richthegeek/jquery-mousewheel": "*"    
+  },
   "license": "MIT"
 }
