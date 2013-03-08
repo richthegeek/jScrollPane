@@ -5,7 +5,7 @@
   "description": "cross browser custom scrollbars",
   "keywords": [
     "scroll",
-    "scrollbar",
+    "scrollbar"
   ],
   "main": "script/jquery.jscrollpane.js",
   "scripts": [
