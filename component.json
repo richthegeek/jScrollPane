@@ -1,0 +1,18 @@
+{
+  "name": "jscrollpane",
+  "repo": "richthegeek/jScrollPane",
+  "version": "2.0.0.11",
+  "description": "cross browser custom scrollbars",
+  "keywords": [
+    "scroll",
+    "scrollbar",
+  ],
+  "main": "script/jquery.jscrollpane.js",
+  "scripts": [
+    "script/jquery.jscrollpane.js"
+  ],
+  "styles": [
+    "style/jquery.jscrollpane.css"
+  ]
+  "license": "MIT"
+}
